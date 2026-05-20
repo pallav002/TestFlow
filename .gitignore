@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# OS / Editors
+.vscode/
+.idea/
+.DS_Store
